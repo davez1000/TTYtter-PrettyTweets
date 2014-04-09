@@ -19,7 +19,7 @@ $handle = sub {
 	my $names;
 
 	my $user_screen_name = &descape($ref->{'user'}->{'screen_name'});
-	if ($user_screen_name eq "Babette_Noodles") {
+	if ($user_screen_name eq "B******_N*****") {
 		$usercolor = $BLUE;
 	}
 
